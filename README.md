@@ -1,0 +1,2 @@
+# monitoriaUSJT
+Lista de exercícios
