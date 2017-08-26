@@ -1,7 +1,7 @@
 /*
 
-4) Crie um algoritmo que leia 3 números que representem uma data, respectivamente 
-dia, mês e ano. Depois imprima a data usando o formato dia/mês/ano.
+4) Crie um algoritmo que leia 3 nÃºmeros que representem uma data, respectivamente 
+dia, mÃªs e ano. Depois imprima a data usando o formato dia/mÃªs/ano.
 
 */
 
